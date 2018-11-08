@@ -1,2 +1,4 @@
 # Qube8
-Public static site
+Leaders in Startup, Enterprise & Investor Eco-Sytems
+
+mailto:admin@qube8.io
